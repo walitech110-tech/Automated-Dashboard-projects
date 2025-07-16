@@ -1,8 +1,5 @@
 🏥Hospital Dashboard – Excel Project
 
-https://docs.google.com/spreadsheets/d/1F-udwG5J6ssL10PGFeuYjGC-YIF1npWN/edit?usp=sharing&ouid=113197673924806246910&rtpof=true&sd=true
-
-
 This project is a **fully automated hospital data dashboard** built in **Microsoft Excel** using advanced data analysis tools.
 It provides a **centralized view of hospital operations**, enabling fast decision-making and performance tracking.
 
