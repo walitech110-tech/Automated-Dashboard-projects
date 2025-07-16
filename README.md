@@ -3,7 +3,7 @@ All my automated working Dashboards with formulas,charts,and interactivity
 
 ## 📊 Hospital Dashboard – Excel Project
 
-🔗 [Click here to View Dashboard on Google Sheets](https://docs.google.com/spreadsheets/d/1F-udwG5J6ssL10PGFeuYjGC-YlF1npWW/edit?usp=sharing)
+📁 [Download & View Full Excel Dashboard](https://drive.google.com/file/d/XYZ_YOUR_FILE_ID/view?usp=sharing)
 
 This dashboard contains:
 - Automated Excel Charts
