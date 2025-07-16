@@ -1,5 +1,12 @@
 🏥Hospital Dashboard – Excel Project
 
+⚠️ Important Note:
+This dashboard uses multiple advanced Excel features (charts, slicers, pivot tables, VBA/macros, etc.) which may not function properly in Google Sheets.
+
+📥 Please download and open this file in Microsoft Excel for the best experience.
+
+❌ Do not view in Google Sheets — formatting and functionalities will break.
+
 This project is a **fully automated hospital data dashboard** built in **Microsoft Excel** using advanced data analysis tools.
 It provides a **centralized view of hospital operations**, enabling fast decision-making and performance tracking.
 
